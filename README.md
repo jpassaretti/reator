@@ -18,7 +18,7 @@ O ESP32 permite o desenvolvimento de aplicações com interfaces webserver e com
 
 ![aaaaa](https://user-images.githubusercontent.com/9045259/116328202-e3981b80-a79e-11eb-8143-9ca8f5bbdd0b.jpg)
 
-O microcontrolador ESP32 é compatível com as bibliotecas arduino o que facilitando o uso de shields e bibliotecas disponíveis. O ESP32 pode atuar como uma estação Wi-Fi, como um ponto de acesso ou ambos e programável a partir do Arduino IDE. Existe um complemento para o Arduino IDE que permite programar o ESP32 usando o Arduino IDE e sua linguagem de programação. É possível instalar a placa ESP32 no Arduino IDE no Windows, Mac OS X ou Linux:
+O microcontrolador ESP32 é compatível com as bibliotecas arduino, facilitando o uso de shields e bibliotecas disponíveis. O ESP32 pode atuar como uma estação Wi-Fi, como um ponto de acesso ou ambos e programável a partir do Arduino IDE. Existe um complemento para o Arduino IDE que permite programar o ESP32 usando o Arduino IDE e sua linguagem de programação. É possível instalar a placa ESP32 no Arduino IDE no Windows, Mac OS X ou Linux:
 
 Windows
 https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
