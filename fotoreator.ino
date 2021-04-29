@@ -96,7 +96,6 @@ void setup() {
 }
 
 void loop(){
-  Temperature = (sensor.readCelsius());
   val = analogRead(analogPin);
   currentMillis = millis();
   if (currentMillis - previousMillis > interval) 
@@ -172,7 +171,7 @@ void loop(){
               output27State = "off";
               digitalWrite(output27, LOW);
             }
-
+            
 
 
             // Display the HTML web page
